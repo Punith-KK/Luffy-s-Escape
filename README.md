@@ -7,6 +7,7 @@ https://user-images.githubusercontent.com/118302022/230766285-2fdec8be-7dad-4378
 
 # Game Demo
 https://user-images.githubusercontent.com/118302022/230766365-257bffc3-d8d8-4a79-85bc-d91cbc1373df.mp4
+![image](https://github.com/Punith-KK/Luffy-s-Escape/assets/118302022/7f2360f5-0940-4322-add1-4eb5e5a910e1)
 
 
 # Our Game-Luffy's Escape
